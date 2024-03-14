@@ -1,1 +1,2 @@
-# Design Principles for Creating Scalable and Resilient Pipelines
+# Chapter 03  Design Principles for Creating Scalable and Resilient Pipelines
+* Uh, CoLab notebook file. https://colab.research.google.com/github/robert0714/Packt-Building-ETL-Pipelines-with-Python-2023/blob/main/Chapters/chapter_03/Importing_Data_with_Python.ipynb
