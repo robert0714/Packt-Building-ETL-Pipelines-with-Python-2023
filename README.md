@@ -123,9 +123,9 @@ The **_Building ETL Pipelines with Python_** consists of the following chapters:
 
 | Index | Title | Brief Description |
 |---------|-------------|-----------|
-| Chapter 1 | [A Primer on Python and the Development Environment](Chapters/chapter_01) | A brief overview of Python and setting up the development environment with an IDE and GIT.|
+| Chapter 1 | [A Primer on Python and the Development Environment](Chapters/chapter_01/README.md) | A brief overview of Python and setting up the development environment with an IDE and GIT.|
 | Chapter 2 | [Understanding the ETL Process and Data Pipelines](Chapters/chapter_02) | Overview of the ETL process, its significance, and the difference between ETL and ELT|
-| Chapter 3 | [Design Principles for Creating Scalable and Resilient Pipelines](Chapters/chapter_03) | How to implement design patterns using open-source Python libraries for robust ETL pipelines.|
+| Chapter 3 | [Design Principles for Creating Scalable and Resilient Pipelines](Chapters/chapter_03/README.md) | How to implement design patterns using open-source Python libraries for robust ETL pipelines.|
 
 ### Part 2: Building ETL Pipelineswith Python
 
